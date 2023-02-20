@@ -14,7 +14,7 @@ class Unicorn
 end
 
 unicorn1 = Unicorn.new("dino", "purple")
-p unicorn1.say("My name is candace")
+p unicorn1.say("My name is sparkle")
 
 #  Write a class called Vampire
 #  it should have a dynamic name attribute
@@ -36,7 +36,7 @@ end
 
 vampire1 = Vampire.new("elie",)
 
-vampire2 =Vampire.new("Jax", "bloodhound")
+vampire2 = Vampire.new("Jax", "bloodhound")
 
 p vampire1.drink
 p vampire2.drink
